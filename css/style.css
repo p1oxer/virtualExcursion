@@ -1,0 +1,13 @@
+
+.home {
+    display: flex;
+    min-height: 100vh;
+    background-color: #00000031;
+}
+
+.panorama__container {
+    display: block;
+    width: 100%;
+    height: 100vh;
+    cursor: grab;
+}
